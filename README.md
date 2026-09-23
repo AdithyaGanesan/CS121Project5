@@ -61,7 +61,7 @@ if position >= trackLength
 	print(winning commentary)
 return false
 ```
-### void Race::Race()
+### Race::Race()
 ```
 const static int NUM_HORSES = 5
 const static int TRACK_LENGTH = 15
